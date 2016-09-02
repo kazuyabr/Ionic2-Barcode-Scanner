@@ -11,6 +11,5 @@ Clone the repository and build for android
 ```
 git clone https://github.com/manojsinghnegiwd/Ionic2-Barcode-Scanner.git
 ionic run android
-
 ```
 
